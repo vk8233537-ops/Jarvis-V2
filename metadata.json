@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis V2 - Glassmorphic AI Dashboard",
+  "description": "Next-generation futuristic AI workspace and executive dashboard with ultra-refined Glassmorphism, Neumorphism, and Liquid Glass aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
